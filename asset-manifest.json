@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/andresbueno043.github.io/game-of-life/static/css/main.f605bb6d.css",
+    "main.js": "/andresbueno043.github.io/game-of-life/static/js/main.d366969c.js",
+    "static/js/787.7ebe7c37.chunk.js": "/andresbueno043.github.io/game-of-life/static/js/787.7ebe7c37.chunk.js",
+    "static/media/logo.svg": "/andresbueno043.github.io/game-of-life/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/andresbueno043.github.io/game-of-life/index.html",
+    "main.f605bb6d.css.map": "/andresbueno043.github.io/game-of-life/static/css/main.f605bb6d.css.map",
+    "main.d366969c.js.map": "/andresbueno043.github.io/game-of-life/static/js/main.d366969c.js.map",
+    "787.7ebe7c37.chunk.js.map": "/andresbueno043.github.io/game-of-life/static/js/787.7ebe7c37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f605bb6d.css",
+    "static/js/main.d366969c.js"
+  ]
+}
